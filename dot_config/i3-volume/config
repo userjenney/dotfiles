@@ -1,0 +1,10 @@
+# Enable notifications with dunst
+NOTIFICATION_METHOD="dunst"
+DISPLAY_NOTIFICATIONS=true
+USE_DUNSTIFY=true
+
+# Set default step size
+DEFAULT_STEP=5
+
+# Set maximum volume
+MAX_VOL=100
